@@ -1,3 +1,8 @@
+новые изменения в отслеживаемый файл
+новые изменения в отслеживаемый файл in tetsTractionRemote
+новые изменения в отслеживаемый файл извне
+just another string
+
 total 3068
 -rw-------  1 arkont34 customers  21089 Nov  1 13:42 011119.html
 -rw-------  1 arkont34 customers  20834 Nov  3 00:45 041119.html
